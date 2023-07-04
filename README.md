@@ -1,2 +1,1 @@
-# okmiu
-mioj8uj8u
+Restraunt Management System
